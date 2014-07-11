@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "fetch-cli": "0.0.3"
+    "gretchen": "0.0.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.9.2",
